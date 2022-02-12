@@ -1,0 +1,19 @@
+#project {border: 1px solid black; background-color: #ffffe6; padding: 10px; padding: 10px; margin-right: auto; margin-left: auto; width: 340px; height: 700px; 
+ }
+#lionimage {width: 300px; height: 200px; padding: 10px; 
+}
+#data {border:  1px solid black; margin: 5px; background-color: #e6ffff
+
+}
+#information {font-family: Georgia, 'Times New Roman', Times, serif; font-style: italic; font-stretch: expanded; padding: 8px;
+
+}
+#important {list-style: none; font-size: 14pt;
+
+}
+.card {font-weight: bold;
+
+}
+#description {margin-left: 10px; margin-right: 10px; font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
